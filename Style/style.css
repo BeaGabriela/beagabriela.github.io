@@ -80,6 +80,11 @@
             margin-top: 0px;
             border-radius: 12px;
         }
+        .category1 a{
+            text-decoration: none;
+            color: black;
+
+        }
         label{
             padding:5px;
         }
